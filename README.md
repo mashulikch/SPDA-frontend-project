@@ -17,6 +17,11 @@ pnpm dev
 pnpm typecheck
 pnpm build
 ```
+Если не запускается, можно попробовать:
+```bash
+npm install
+npm run dev
+```
 
 ## Что есть в интерфейсе
 
